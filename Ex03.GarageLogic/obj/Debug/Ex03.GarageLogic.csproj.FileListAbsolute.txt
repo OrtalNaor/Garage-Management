@@ -1,0 +1,7 @@
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Users\אורטל\Desktop\שנה ב' סמסטר ג'\c#\C18 Ex03 Ortal 205655665 Maya 203553342\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
